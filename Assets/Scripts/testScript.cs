@@ -6,6 +6,7 @@ public class test : MonoBehaviour
 {
 
     int i = 5;
+    int a = 10;
     // Start is called before the first frame update
     void Start()
     {
